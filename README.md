@@ -1,2 +1,2 @@
 # flask-todo
-this is flask based simple todo app
+This is a Flask based simple Todo App
